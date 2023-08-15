@@ -1,0 +1,10 @@
+{
+    "Content-Type" : "application/json",
+    "Accept" : "application/json",
+    "X-UserType" : "USER",
+    "X-SourceID" : "WEB",
+    "X-ClientLocalIP" : "CLIENT_LOCAL_IP",
+    "X-ClientPublicIP" : "CLIENT_PUBLIC_IP",
+    "X-MACAddress" : "MAC_ADDRESS",
+    "X-PrivateKey" : "BWn0dkQY"
+  }

@@ -1,0 +1,14 @@
+{
+    "variety":"NORMAL",
+    "tradingsymbol":"SBIN-EQ",
+    "symboltoken":"3045",
+    "transactiontype":"SELL",
+    "exchange":"NSE",
+    "ordertype":"MARKET",
+    "producttype":"INTRADAY",
+    "duration":"DAY",
+    "price":"0",
+    "squareoff":"0",
+    "stoploss":"0",
+    "quantity":"1"
+    }
